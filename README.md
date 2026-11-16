@@ -5,6 +5,8 @@ Professional construction company website for CAWL Construction, Somalia's leadi
 ## 🌐 Live Website
 Visit: [https://abqaaibraahi-eng.github.io/Cawl/](https://abqaaibraahi-eng.github.io/Cawl/)
 
+**Alternative URL:** [https://verdant-kataifi-3966f4.netlify.app](https://verdant-kataifi-3966f4.netlify.app)
+
 ## 🏗️ About CAWL Construction
 Building Excellence in Somalia since 2016. We deliver trusted construction, engineering, and consultancy services across Somalia.
 
