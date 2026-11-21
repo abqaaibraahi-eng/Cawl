@@ -12,7 +12,6 @@ Building Excellence in Somalia since 2016. We deliver trusted construction, engi
 
 ## 📞 Contact
 - **Phone:** +252 619 161833
-- **Phone:** +252 619 16183
 - **Location:** Dabka, Mogadishu, Somalia
 - **Email:** info@cawlconstruction.com
 
